@@ -36,6 +36,12 @@ The model architecture for this project follows Star Schema (Fact table in the m
 ![Model Architecture](docs/star_schema.drawio.png)
 
 ---
+⚡ Power Query Process
+
+This is the Power Query process I have as standar to process data from any source:
+
+![Power Query Process](docs/power_query_process_steps.drawio.png)
+---
 ## 🛠️ Important Links & Tools:
 
 Everything is for Free!
