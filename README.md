@@ -45,7 +45,7 @@ Everything is for Free!
 - **[Git Repository](https://github.com/):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 - **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
 - **[Notion](https://www.notion.com/):** All-in-one tool for project management and organization.
-- **[Notion Project Steps](https://app.notion.com/p/Power-BI-B2B-Data-Modeling-Project-3f4f6b7f331f801b9d2af44af26bb2ad?source=copy_link)):** Access to All Project Phases and Tasks.
+- **[Notion Project Steps](https://app.notion.com/p/Power-BI-B2B-Data-Modeling-Project-3f4f6b7f331f801b9d2af44af26bb2ad?source=copy_link):** Access to All Project Phases and Tasks.
 
 ---
 ## 📂 Repository Structure
@@ -66,6 +66,10 @@ b2b-data-modeling-project/
 │   ├── data_model.SemanticModel/       # Semantic model (dataset) definition files
 │   ├── data_model.pbip                 # Root pointer file (opens the project)
 │
+├── report_images/                      # Screenshots of the example report for the data model
+│   ├── Revenue and Campaigns.png       # Report for the fact_sales_target and fact_campaign_spend tables
+│   ├── Sales and Inventory.png         # Report for the fact_sales and fact_inventory tables
+|
 ├── b2b_data_model_project.pbix         # pbix version of the project
 ├── README.md                           # Project overview and instructions
 └── LICENSE                             # License information for the repository
