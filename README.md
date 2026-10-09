@@ -8,10 +8,10 @@ The objective is to transform a complicated dataset containing 23 interconnected
 
 ---
 ## 🔄 Phases
-1. **Prepare & Explore** (Step 1)
-2. **Create Dimensions** (Steps 2 – 4)
-3. **Create the Facts** (Steps 5 – 8)
-4. **Polish** (Steps 9 – 12)
+1. **Prepare & Explore**
+2. **Create Dimensions**
+3. **Create the Facts**
+4. **Polish**
 
 ---
 ## 📜 Rules
