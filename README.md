@@ -55,8 +55,8 @@ b2b-data-modeling-project/
 ├── datasets/                           # Raw datasets used for the project (23 tables)
 │
 ├── docs/                               # Project documentation and architecture details
-│   ├── star_schema.drawio              # Draw.io file shows the basic data model structure of the project
-│   ├── data_architecture.drawio        # Draw.io file shows the project's architecture
+│   ├── star_schema                     # Draw.io file shows the basic data model structure of the project
+│   ├── power_query_process_steps       # Draw.io file shows the project's power query data processing
 │   ├── b2b_data_modeling_project.pdf   # Project description and step-by-step documentation of the process
 │   ├── initial_data_model.png          # PNG file for the data model from source without any changes
 │   ├── final_data_model.png            # PNG file for the data model after all the changes done to the dataset
